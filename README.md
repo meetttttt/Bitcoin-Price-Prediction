@@ -2,6 +2,8 @@
 
 In this project, as the name suggest we are basically going to predict the bitcoin price prediction / Time series Analysis 
 
+Make sure to install requirements.txt file before running the project.
+
 ![](https://media0.giphy.com/media/f67U9Xc53i4ViUs5T2/giphy.gif?cid=ecf05e47h4dpv8s5ppc6omcbb5uzwprey8y97x3fy8qk8dk8&rid=giphy.gif&ct=g) 
 
 What is LSTM
