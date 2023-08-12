@@ -4,9 +4,8 @@ In this project, as the name suggest we are basically going to predict the bitco
 
 Make sure to install requirements.txt file before running the project.
 
-![](https://media0.giphy.com/media/f67U9Xc53i4ViUs5T2/giphy.gif?cid=ecf05e47h4dpv8s5ppc6omcbb5uzwprey8y97x3fy8qk8dk8&rid=giphy.gif&ct=g) 
+![](https://giphy.com/embed/f67U9Xc53i4ViUs5T2) 
 
-<iframe src="https://giphy.com/embed/f67U9Xc53i4ViUs5T2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stock-wall-street-stockmarket-f67U9Xc53i4ViUs5T2">via GIPHY</a></p>
 
 # Install requirements.txt:
 ```pip install requirements.txt```
