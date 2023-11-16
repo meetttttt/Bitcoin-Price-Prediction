@@ -34,11 +34,3 @@ As we want to predict Close Price of the Bitcoin so we are just Considering Clos
 
 Conclusion:
 We Have created LSTM model for predicting Bitcoin Price.
-
-# LSTM  Model:
-- The code for training the LSTM model is written in bitcoin-price-prediction-using-lstm.ipynb file.
-- For Accuracy score, Val Accuracy score please check the above mention file.
-- The final Model will be saved in the Model Folder.
-- The Most recent data will be found in Data Folder.
-- To download the newest data, the code could be found in Data folder, the filename is collect_data_from_yfinance.ipynb .
-
