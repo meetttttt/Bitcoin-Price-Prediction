@@ -8,7 +8,7 @@ Make sure to install requirements.txt file before running the project.
 
 
 # Install requirements.txt:
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 
 
 

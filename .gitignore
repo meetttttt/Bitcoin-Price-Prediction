@@ -1,1 +1,30 @@
-.ipynb_checkpoints
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local configuration file (if using virtualenv or similar)
+.env
+
+# Python egg metadata
+*.egg-info/
+
+# Distribution/distutils
+build/
+dist/
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# IDE-specific files
+.idea/
+.vscode/
